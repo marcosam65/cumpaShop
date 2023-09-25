@@ -82,7 +82,7 @@
     {
         "id": "camiseta-04",
         "titulo": "Camiseta 04",
-        "imagen": "./img/camisetas/04.jpg",
+        "imagen": "./img/camisetas/03.jpg",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -113,7 +113,7 @@
     {
         "id": "pantalon-02",
         "titulo": "Pantalón 02",
-        "imagen": "./img/pantalones/02.jpg",
+        "imagen": "./img/pantalones/01.jpg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
@@ -133,7 +133,7 @@
     {
         "id": "pantalon-04",
         "titulo": "Pantalón 04",
-        "imagen": "./img/pantalones/04.jpg",
+        "imagen": "./img/pantalones/03.jpg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
